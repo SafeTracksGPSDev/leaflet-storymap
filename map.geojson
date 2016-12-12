@@ -1,1 +1,81 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"id":1,"chapter":"Lee Williams","zoom":15,"image":"img/1847-HPHS-Catalog1904p164.jpg","source-credit":"Source: HPHS Quadrennial Catalogue 1904","source-link":"https://www.flickr.com/photos/56513965@N06/21047067205","description":"Dear Safetracks, I was referred to your company from my fathers social worker. My father has early onset dimentia and while he has lost the ability to do most things, taking the dog for a walk is the biggest part of his day. He ventures out into the neighbourhood he's lived in for 35 years but over the last year or so has gotten lost twice. Your product is terrific sparring the family worry and allowing him this freedom for a while longer. Moreover, I wanted to thank Joanne Seiler for truly terrific customer service. She has been very helpful, knowledgable and very timely in her service. Thank you all"},"geometry":{"type":"Point","coordinates":[-72.6782,41.7676]}},{"type":"Feature","properties":{"id":2,"chapter":"Hartford Public High School 1905","zoom":17,"image":"img/1905-HPHS-postcard.jpg","source-credit":"Source: Flickr","source-link":"https://flic.kr/p/FNxWf8","description":"See directions to create your own storymap. Insert your text, map points, zoom levels, and image links in an easy-to-edit spreadsheet template, named data.csv. Then drag this file into the http://geojson.io tool to convert it into a map file, named data.geojson. "},"geometry":{"type":"Point","coordinates":[-72.6848,41.7677]}},{"type":"Feature","properties":{"id":3,"chapter":"Hartford Public High School 2011","zoom":17,"image":"https://farm6.staticflickr.com/5693/20860554099_1a9466a11e_c.jpg","source-credit":"Source: Carlos Velazquez/Flickr","source-link":"https://flic.kr/p/xMnMXR","description":"Images can be uploaded a local subfolder, or pulled from an external URL (such as this photo on a Flickr server). They are automatically resized to fit into the storymap."},"geometry":{"type":"Point","coordinates":[-72.701,41.7654]}},{"type":"Feature","properties":{"id":4,"chapter":"Bradley Airport, Windsor Locks","zoom":14,"image":"img/BradleyAirport.jpg","source-credit":"Source: public domain/Wikimedia","source-link":"https://commons.wikimedia.org/wiki/File:Airport_2.jpg#/media/File:Airport_2.jpg","description":"The Leafet 1.x code includes a 'fly to' feature that animates the distance traveled from one map point to the next. Users with some coding skills can easily modify the background map, or add map overlays, or extend the code by adding new features."},"geometry":{"type":"Point","coordinates":[-72.687984,41.9387]}},{"type":"Feature","properties":{"id":5,"chapter":"Trinity College, Hartford","zoom":15,"image":"img/TrinityCollege.jpg","source-credit":"Source: Trinity College/edX","source-link":"https://www.edx.org/sites/default/files/trinity1.jpg","description":"To learn how to create your own Leaflet storymap from this template, click on 'View code in GitHub' at the bottom of the map, or go to Leaflet Templates section of the Data Visualization For All book, at http://DataVizForAll.org."},"geometry":{"type":"Point","coordinates":[-72.69,41.747]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "chapter": "Alberta Medical Association",
+        "zoom": 15,
+        "image": "img/amalogo.png",
+        "source-credit": "Source: Alberta Medical Association",
+        "source-link": "https://www.albertadoctors.org/",
+        "description": "The SOS voice feature, response time as well as GPS accuracy was quite impressive.The battery life was exceptional and we did not have to charge the unit for over one week.This product is clearly an industry leader."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.54,
+          -113.533754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "chapter": "BoscoHomes",
+        "zoom": 17,
+        "image": "img/BoscoHomes.gif",
+        "source-credit": "Source: Bosco Homes",
+        "source-link": "http://www.boscofoundation.com/",
+        "description": "Bosco Homes has been using the SafeTracks Personal GPS tracking device since April 2012. Having these devices in our programs has increased the safety and security of our staff and clients and has given our staff a peace of mind when working alone. Over the past year, we�ve had to use the system twice. The response time by SafeTracks Operators was impeccable. Any service needs were answered and corrected by the SafeTracks personnel immediately."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.58,
+          -113.445388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "chapter": "C.A.W.E.S.",
+        "zoom": 17,
+        "image": "img/Cawes.png",
+        "source-credit": "Source: C.A.W.E.S.",
+        "source-link": "http://cawes.com/",
+        "description": "We began working with SafeTracks three years ago. We tested the devices for victims until we were satisfied that we understood the technology and the application of the technology for the victims program.\nWe are convinced the GPS personal device and the 24 hr. monitoring is an enhancement to the safety planning with victims. SafeTracks is working with CAWES to provide GPS solutions in domestic violence safety planning and offender accountability. We are very excited to be a part of this emerging technology."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.27,
+          -113.804563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "chapter": "Spinal Cord Injury Alberta",
+        "zoom": 14,
+        "image": "img/SCIA.png",
+        "source-credit": "Source: Spinal Cord Injury Alberta",
+        "source-link": "https://www.canadahelps.org/uploads/CACHE/images/charityprofile/1/5265/Spinal%20Cord%20Injury%20Alberta%20Logo%20with%20Outlines/1bd1a94e7ed700a17c85df83e159995b.png",
+        "description": "We first heard of this company due to the work they are doing with the Central Alberta Women's Emergency Shelter and the Red Deer RCMP. We tested the devices with SafeTracks. Two of our team members faithfully carried the devices for two months and the feedback was very positive. The added safety of having this device gave them the reassurance that, no matter where they were, if they were in distress, help was just a push of a button away."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.26,
+          -113.808507
+        ]
+      }
+    }
+  ]
+}
